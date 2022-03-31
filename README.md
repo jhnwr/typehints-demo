@@ -2,4 +2,4 @@
 
 > YT Video Code
 
-Quick explaination video about basic type hints usage in Python
+Quick explanation video about basic type hints usage in Python
